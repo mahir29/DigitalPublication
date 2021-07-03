@@ -10,7 +10,7 @@
 **Clone the repo**
 ```
 git clone https://github.com/mahir29/DigitalPublication.git<br/>
-cd Vidvan
+cd DigitalPublication
 ```
 
 **For client-side**
